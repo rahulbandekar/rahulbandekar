@@ -2,7 +2,7 @@
 
  An aspiring developer from Goa, India, with a passion for learning and building web applications. I enjoy exploring new technologies and turning ideas into functional, user-friendly projects.
 
- 🌱 As a **fresher**, I'm constantly expanding my skills in **Next.js**, **TypeScript**, and other web development tools. I love diving into new challenges and figuring out how things work from the ground up.
+ 🌱 As a **fresher**, I'm constantly expanding my skills in **React.js**, **JavaScript**, and other web development tools. I love diving into new challenges and figuring out how things work from the ground up.
 
  🚀 I believe in the power of continuous learning and am excited to grow in the ever-evolving world of technology. I'm always curious to learn from others and open to any guidance or collaboration opportunities.
 
